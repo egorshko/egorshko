@@ -1,11 +1,11 @@
 ### Hi there 👋
+<h1 align="center">Hi 👋, I'm Egor Shkolnikov</h1>
+<h3 align="center">Unity Developer</h3>
 
-Egor Shkolnikov
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/egor-shkolnikov-b03924a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/egor-shkolnikov-b03924a9/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/egor_shkolnikov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/egor_shkolnikov/" height="30" width="40" /></a>
-</p>
+Linkedin: https://www.linkedin.com/in/egor-shkolnikov-b03924a9/
+Portfolio: https://egorshko.myportfolio.com/
+Instagram: https://www.instagram.com/egor_shkolnikov/
+Telegram: @egorshko
 
 Summary
 I am a Unity developer with extensive experience in both game development and design, with over 10 years of experience in the industry. My background in design has helped me develop a strong product vision and a holistic understanding of large-scale projects. I possess advanced skills in Unity3D, character rigging, and have worked with Spine. Additionally, I am proficient in C# and have applied the MVC, MVP, and ECS design patterns in my projects. I am well-versed in using Zenject and UniRx, and I am adept at creating user interfaces. I also have expertise in various design software, including 3Ds Max, Corona, ZBrush, Blender, Adobe Photoshop, Adobe After Effects, Adobe Illustrator, Adobe Fuse, Substance Painter, and Marvelous Designer.
