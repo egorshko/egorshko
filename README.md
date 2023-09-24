@@ -38,6 +38,7 @@ And don't forget to visit my rest 👉 [portfolio](https://egorshko.myportfolio.
 * Skillbox - "Unity Developer. Middle" (Currently study)
 
 
+## Contact
 
 Linkedin: https://www.linkedin.com/in/egor-shkolnikov-b03924a9/
 
