@@ -39,7 +39,7 @@ And don't forget to visit my rest 👉 [portfolio](https://egorshko.myportfolio.
 
 
 
-Linkedin: https://www.linkedin.com/in/egor-shkolnikov-b03924a9/
-Portfolio: https://egorshko.myportfolio.com/
-Instagram: https://www.instagram.com/egor_shkolnikov/
-Telegram: https://t.me/egorshko
+Linkedin: https://www.linkedin.com/in/egor-shkolnikov-b03924a9/;
+Portfolio: https://egorshko.myportfolio.com/;
+Instagram: https://www.instagram.com/egor_shkolnikov/;
+Telegram: https://t.me/egorshko;
