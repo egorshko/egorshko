@@ -16,7 +16,10 @@ I am a Unity developer who began studying Unity and C# in 2020. I bring over 10 
 
 ## Currently working on:
 
-https://egorshko.myportfolio.com/bobby-baxman
+My personal mobile [project](https://egorshko.myportfolio.com/bobby-baxman)
+
+And don't forget to visit my rest 👉 [portfolio](https://egorshko.myportfolio.com/) 👈
+
 ## 🛠 Skills
 * Unity3D
 * C#, OOP
@@ -36,7 +39,7 @@ https://egorshko.myportfolio.com/bobby-baxman
 
 
 
-Linkedin: https://www.linkedin.com/in/egor-shkolnikov-b03924a9/
-Portfolio: https://egorshko.myportfolio.com/
-Instagram: https://www.instagram.com/egor_shkolnikov/
-Telegram: https://t.me/egorshko
+\Linkedin: https://www.linkedin.com/in/egor-shkolnikov-b03924a9/
+\Portfolio: https://egorshko.myportfolio.com/
+\Instagram: https://www.instagram.com/egor_shkolnikov/
+\Telegram: https://t.me/egorshko
