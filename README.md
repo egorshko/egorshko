@@ -1,10 +1,12 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Egor Shkolnikov</h1>
 <h3 align="center">Unity Developer</h3>
 
 Linkedin: https://www.linkedin.com/in/egor-shkolnikov-b03924a9/
+
 Portfolio: https://egorshko.myportfolio.com/
+
 Instagram: https://www.instagram.com/egor_shkolnikov/
+
 Telegram: @egorshko
 
 Summary
