@@ -12,7 +12,7 @@ I am a Unity developer who began studying Unity and C# in 2020. I bring over 10 
 
  - [AnimatedGameUI](https://github.com/egorshko/AnimatedGameUI)
  - [CharacterStateMachine](https://github.com/egorshko/CharacterStateMachine)
- - [SavingSystem]([https://github.com/egorshko/CharacterStateMachine](https://github.com/egorshko/SavingSystem))
+ - [SavingSystem](https://github.com/egorshko/SavingSystem)
   
 
 
