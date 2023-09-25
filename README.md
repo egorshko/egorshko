@@ -5,7 +5,7 @@
 
 
 ## 🚀 About Me
-I am a Unity developer who began studying Unity and C# in 2020. I bring over 10 years of design experience to the table, which has significantly influenced my product vision and comprehensive understanding of extensive projects. I have advanced skills in Unity3D, character rigging, and have worked with Spine. Additionally, I am proficient in C# and have applied the MVC, MVP and MVVM design patterns in my projects. I am well-versed in using ECS, Zenject and UniRx, and I am adept at creating user interfaces. I also have expertise in various design software, including 3Ds Max, Corona, ZBrush, Blender, Adobe Photoshop, Adobe After Effects, Adobe Illustrator, Adobe Fuse, Substance Painter, and Marvelous Designer.
+I've been learning Unity and C# since 2020, and my over 10 years of design experience have shaped my product vision and understanding of complex projects. I have advanced skills in Unity3D, character rigging, and have worked with Spine. Additionally, I am proficient in C# and have applied the MVC, MVP and MVVM design patterns in my projects. I am well-versed in using ECS, Zenject and UniRx, and I am adept at creating user interfaces. I also have expertise in various design software, including 3Ds Max, Corona, ZBrush, Blender, Adobe Photoshop, Adobe After Effects, Adobe Illustrator, Adobe Fuse, Substance Painter, and Marvelous Designer.
 
 
 ## GitHub Repositories
