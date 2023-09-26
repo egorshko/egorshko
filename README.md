@@ -42,6 +42,8 @@ And don't forget to visit my rest 👉 [portfolio](https://egorshko.myportfolio.
 
 ## Contact
 
+Email: egorshko@gmail.com
+
 Linkedin: https://www.linkedin.com/in/egor-shkolnikov-b03924a9/
 
 Portfolio: https://egorshko.myportfolio.com/
