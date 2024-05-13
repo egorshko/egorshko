@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Egor Shkolnikov</h1>
-<h3 align="center">I am Unity Developer</h3>
+<h3 align="center">I am Game Developer</h3>
 
 
 
