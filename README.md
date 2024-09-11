@@ -27,7 +27,7 @@ And don't forget to visit my rest 👉 [portfolio](https://egorshko.myportfolio.
 * C#, OOP
 * MVC, MVP, MVVM
 * ECS, Zenject, UniRx
-* Character rigging and animation (Spine)
+* Character rigging and animation (3D/2D)
 * User interface design
 * 3D modeling and design (3Ds Max, Corona, ZBrush, Blender)
 * Graphic design (Adobe Photoshop, Adobe After Effects, Adobe Illustrator)
