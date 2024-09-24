@@ -26,7 +26,7 @@ And don't forget to visit my rest 👉 [portfolio](https://egorshko.myportfolio.
 * Unity3D
 * C#, OOP
 * MVC, MVP, MVVM
-* ECS, Zenject, UniRx
+* ECS, Zenject, UniRx, DoTween
 * Character rigging and animation (3D/2D)
 * User interface design
 * 3D modeling and design (3Ds Max, Corona, ZBrush, Blender)
