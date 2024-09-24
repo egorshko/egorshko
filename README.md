@@ -38,6 +38,8 @@ And don't forget to visit my rest 👉 [portfolio](https://egorshko.myportfolio.
 ## Education
 * Geekbrains - "Unity Developer"
 * Skillbox - "Unity Developer. Middle" (Currently study)
+* K-syndicate - ARCHITECTURE UNITY GAMES
+
 
 
 ## Contact
